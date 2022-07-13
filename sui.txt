@@ -1,1 +1,3 @@
 DAGs, Narwhal, Tusk, Bullshark
+
+There will be incentivized test nets 1, 2 and 3 at minimum before mainnet
