@@ -11,3 +11,5 @@ Looks better than Aptos. The name is fantastic, which seems to matter with brand
 Lots of funds raised, many by shady FTX. Is this a problem? This does seem like a challenge.
 
 Move is the language, which is based on Rust. Rust is based, so Move probably is too?
+
+Sui docs: https://docs.sui.io/
