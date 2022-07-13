@@ -9,3 +9,5 @@ They claim there will be no airdrop (should this really be believed?)
 Looks better than Aptos. The name is fantastic, which seems to matter with branding. Cool is good in this space.
 
 Lots of funds raised, many by shady FTX. Is this a problem?
+
+Move is the language, which is based on Rust. Rust is based, so Move probably is too?
