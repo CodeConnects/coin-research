@@ -5,3 +5,5 @@ FET - Fetch AI will come back from the bottom
 ALBT - AllianceBlock
 
 RLC - iExec RLC
+
+NMR - Numeraire, used to make ML tools
