@@ -15,3 +15,5 @@ GRT - The Graph, not so sure about the AI connection with this one
 In general, AI makes existing processes more efficient. Some examples:
 
 Automation: Many large and small processes can be simplified and accelerated with AI in the future. This ranges from analyzing which cryptos are a good investment opportunity to automatically compiling data.
+
+Fraud detection: Artificial intelligence can recognize conspicuous patterns that warn users, for example, of suspicious wallet addresses or a high probability of scams with certain crypto projects.
