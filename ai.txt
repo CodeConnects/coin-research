@@ -7,3 +7,5 @@ ALBT - AllianceBlock
 RLC - iExec RLC
 
 NMR - Numeraire, used to make ML tools
+
+GRT - The Graph, not so sure about the AI connection with this one
