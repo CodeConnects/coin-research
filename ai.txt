@@ -17,3 +17,5 @@ In general, AI makes existing processes more efficient. Some examples:
 Automation: Many large and small processes can be simplified and accelerated with AI in the future. This ranges from analyzing which cryptos are a good investment opportunity to automatically compiling data.
 
 Fraud detection: Artificial intelligence can recognize conspicuous patterns that warn users, for example, of suspicious wallet addresses or a high probability of scams with certain crypto projects.
+
+Autonomous processes: Smart contracts allow the execution of complex processes on blockchains. Thanks to AI, this could be taken to a new level in the future. For example, when smart contracts are automatically adapted or newly created on the basis of certain specifications.
