@@ -9,3 +9,5 @@ Rumor has it that Matic is integrating ZK. Matic seems like trash, but they keep
 --------------------------------
 
 Two types: ZK and Optimistic
+
+Optimistic assumes trasactions are correct, so time to finality is something crazy like a week or two
