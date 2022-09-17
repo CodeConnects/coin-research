@@ -3,3 +3,5 @@ The math on ZK rollups is intense!! They are very powerful, so good possibility 
 Dusk is always lagging, but people seem to love it. Algod is a big supporter, and there are other CT folks too.
 
 Mina, Loopring, Aleph Zero, Boba and Metis. Look deeper into these.
+
+Rumor has it that Matic is integrating ZK. Matic seems like trash, but they keep doing more, so maybe that bias is off.
