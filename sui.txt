@@ -15,3 +15,5 @@ Move is the language, which is based on Rust. Rust is based, so Move probably is
 Sui docs: https://docs.sui.io/
 
 Test nfts: https://capy.art/
+
+Community Access Program: https://sui.io/resources-sui/community-access-program/
