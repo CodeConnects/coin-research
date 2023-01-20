@@ -17,3 +17,5 @@ Sui docs: https://docs.sui.io/
 Test nfts: https://capy.art/
 
 Community Access Program: https://sui.io/resources-sui/community-access-program/
+
+US Residents not allowed in the CAP!! Can a VPN be used, or will there be KYC?
