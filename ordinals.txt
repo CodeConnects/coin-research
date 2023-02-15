@@ -1,3 +1,8 @@
 Ordinals are Inscriptions on BTC blockchain. They are a bit confusing, much more research needed!
 
 This space is moving very quickly. There are over 100k inscriptions already, after only a couple of weeks.
+
+A block explorer is available at https://ordinals.com. 
+You can explore recent blocks, and look up ordinals by number, decimal, degree, or name.
+
+Arbitrary assets, such as NFTs, security tokens, accounts, or stablecoins can be attached to Ordinals.
