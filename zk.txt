@@ -19,3 +19,5 @@ ZK has quick finality, but has very complex math under the hood, so are not read
 @zksync
 
 Started their mainnet onboarding process, allowing registered projects to be the first to deploy on zkSync Era, prior to their full alpha launch
+
+*** Try to meetup with some team members at ETHDenver
