@@ -18,3 +18,10 @@ We both have had successful business exits in the past and have been working tog
 
 DenverCitizen | MetaSteward BBB — 02/13/2023 3:02 PM
 Have a dope project w/solid team in need of a dev.  Won’t have the green light for another week and will post more info then, but talk to me first if you’re on the fence about committing to anything
+
+jeffish — 02/13/2023 10:13 PM
+Hi all! We have 2 solidity developers with an idea for a DeFi protocol, looking for a front end dev to join the team. Please DM if interested. Looking forward to meeting everyone at ETHDenver!
+
+mayu — 02/15/2023 12:14 PM
+Hi there! I'm currently seeking a partner to participate in a hackathon with. I have solid experience with Solidity, React, TypeScript, and building various dApps. I've been working in Web3 for about 18 months, having previously been a Web2 developer. I'm particularly interested in building something in the DeFi, infrastructure, or NFT-Fi (which I believe falls under the DeFi category) space, but I'm open to exploring other ideas as well.
+If you're interested in potentially collaborating, please let me know!
