@@ -1,30 +1,24 @@
 Potential partners/teams for build week:
 
-Naruto11 — 02/09/2023 7:17 PM
-Hi, im still looking for some teammates. Im a dev with 1.5 years in blockchain development and close to 6 years in coding in general. Ideas I wanna work on: ZK, Account abstraction, something AI + blockchain?  Still exploring ideas, and open to anything actually. kinds people im looking for: Frontend devs (cause I suck at it). Backend, another person for blockchain/fullstack. 3-4 team. I already have one person actually.
 
-Skydaworld — 02/09/2023 11:49 PM
+1.)  Skydaworld — 02/09/2023 11:49 PM
 We have an idea for ETH denver and looking for a team member with AR and AI experience and also a front end whiz. Something really cool that will be fun to build with a lot of potential, with real utility. DMs open.
 
-Marissa — 02/10/2023 4:56 AM
+2.)  Marissa — 02/10/2023 4:56 AM
 I’m looking for a front end dev and project manager for a really cool hackathon project using on chain data and generative AI. DM me if you are interested.
 
-Teves — 02/10/2023 11:29 AM
-Gm! I'm a fullstack developer and web2 entrepreneur working in the field for 10+ years. I've been experimenting with Solidity/Smart Contracts for the past 8 months or so and during that period I participated in 4 ETH hackathons with awarded projects in all events (mostly NFT and DeFi projects). For ETHDenver, I have a project idea to propose a reverse logistics framework for the e-waste supply chain using blockchain. I believe this would fit well in the "Impact + Public Goods" track. Looking for buidlers with complementary skill sets to work on that. If it sounds interesting to you, send me a DM! My contact info: https://linktr.ee/ateves
+3.)  Naruto11 — 02/09/2023 7:17 PM
+Hi, im still looking for some teammates. Im a dev with 1.5 years in blockchain development and close to 6 years in coding in general. Ideas I wanna work on: ZK, Account abstraction, something AI + blockchain?  Still exploring ideas, and open to anything actually. kinds people im looking for: Frontend devs (cause I suck at it). Backend, another person for blockchain/fullstack. 3-4 team. I already have one person actually.
 
-CaptainSouthpaw — 02/10/2023 5:51 PM
-For the team I’m working on, we have 3 folks and are in need of a frontend dev, preferably one that can handle inputs and controls and/or UI. Think the complexity of games. After we find this person, it’s time to brainstorm use cases and potential projects, whoo! Hi all! @MemeBrains and I are working on a protocol & platform to help DAOs and online communities with governance, participation, treasury replenishment and revenue generation.
-We both have had successful business exits in the past and have been working together on Web3 ventures in the last couple of years. Memebrains has a business background and is great at building communities, running podcasts and spaces, presentations, etc. My background is in tech, building from scratch to scale and managing dev teams in both B2B and B2C spaces. If anyone wants to join us for ETHDenver to help with Product, UI design, frontend or backend development (nextjs, node.js, solidity, graphql, etc) and community building, we would love to chat with you!
-
-DenverCitizen | MetaSteward BBB — 02/13/2023 3:02 PM
-Have a dope project w/solid team in need of a dev.  Won’t have the green light for another week and will post more info then, but talk to me first if you’re on the fence about committing to anything
-
-jeffish — 02/13/2023 10:13 PM
+4.)  jeffish — 02/13/2023 10:13 PM
 Hi all! We have 2 solidity developers with an idea for a DeFi protocol, looking for a front end dev to join the team. Please DM if interested. Looking forward to meeting everyone at ETHDenver!
 
-mayu — 02/15/2023 12:14 PM
+5.)  DenverCitizen | MetaSteward BBB — 02/13/2023 3:02 PM
+Have a dope project w/solid team in need of a dev.  Won’t have the green light for another week and will post more info then, but talk to me first if you’re on the fence about committing to anything
+
+6.)  mayu — 02/15/2023 12:14 PM
 Hi there! I'm currently seeking a partner to participate in a hackathon with. I have solid experience with Solidity, React, TypeScript, and building various dApps. I've been working in Web3 for about 18 months, having previously been a Web2 developer. I'm particularly interested in building something in the DeFi, infrastructure, or NFT-Fi (which I believe falls under the DeFi category) space, but I'm open to exploring other ideas as well.
 If you're interested in potentially collaborating, please let me know!
 
-melior — Today at 9:21 AM
-If you’re interested in DAOs, we’ve got an idea for decision-making by random delegation! Looking for a couple devs. Ping for slide deck
+7.)  Teves — 02/10/2023 11:29 AM
+Gm! I'm a fullstack developer and web2 entrepreneur working in the field for 10+ years. I've been experimenting with Solidity/Smart Contracts for the past 8 months or so and during that period I participated in 4 ETH hackathons with awarded projects in all events (mostly NFT and DeFi projects). For ETHDenver, I have a project idea to propose a reverse logistics framework for the e-waste supply chain using blockchain. I believe this would fit well in the "Impact + Public Goods" track. Looking for buidlers with complementary skill sets to work on that. If it sounds interesting to you, send me a DM! My contact info: https://linktr.ee/ateves
