@@ -25,3 +25,6 @@ Hi all! We have 2 solidity developers with an idea for a DeFi protocol, looking 
 mayu — 02/15/2023 12:14 PM
 Hi there! I'm currently seeking a partner to participate in a hackathon with. I have solid experience with Solidity, React, TypeScript, and building various dApps. I've been working in Web3 for about 18 months, having previously been a Web2 developer. I'm particularly interested in building something in the DeFi, infrastructure, or NFT-Fi (which I believe falls under the DeFi category) space, but I'm open to exploring other ideas as well.
 If you're interested in potentially collaborating, please let me know!
+
+melior — Today at 9:21 AM
+If you’re interested in DAOs, we’ve got an idea for decision-making by random delegation! Looking for a couple devs. Ping for slide deck
