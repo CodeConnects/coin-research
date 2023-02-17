@@ -1,7 +1,8 @@
 Potential partners/teams for build week:
 
 Naruto11 — 02/09/2023 7:17 PM
-Hi, im still looking for some teammates. Im a dev with 1.5 years in blockchain development and close to 6 years in coding in general. 
-Ideas I wanna work on: ZK, Account abstraction, something AI + blockchain?  Still exploring ideas, and open to anything actually.
-kinds people im looking for: Frontend devs (cause I suck at it). Backend, another person for blockchain/fullstack. 3-4 team.
-I already have one person actually.
+Hi, im still looking for some teammates. Im a dev with 1.5 years in blockchain development and close to 6 years in coding in general. Ideas I wanna work on: ZK, Account abstraction, something AI + blockchain?  Still exploring ideas, and open to anything actually. kinds people im looking for: Frontend devs (cause I suck at it). Backend, another person for blockchain/fullstack. 3-4 team. I already have one person actually.
+
+
+Skydaworld — 02/09/2023 11:49 PM
+We have an idea for ETH denver and looking for a team member with AR and AI experience and also a front end whiz. Something really cool that will be fun to build with a lot of potential, with real utility. DMs open.
