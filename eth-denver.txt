@@ -8,3 +8,6 @@ We have an idea for ETH denver and looking for a team member with AR and AI expe
 
 Marissa — 02/10/2023 4:56 AM
 I’m looking for a front end dev and project manager for a really cool hackathon project using on chain data and generative AI. DM me if you are interested.
+
+Teves — 02/10/2023 11:29 AM
+Gm! I'm a fullstack developer and web2 entrepreneur working in the field for 10+ years. I've been experimenting with Solidity/Smart Contracts for the past 8 months or so and during that period I participated in 4 ETH hackathons with awarded projects in all events (mostly NFT and DeFi projects). For ETHDenver, I have a project idea to propose a reverse logistics framework for the e-waste supply chain using blockchain. I believe this would fit well in the "Impact + Public Goods" track. Looking for buidlers with complementary skill sets to work on that. If it sounds interesting to you, send me a DM! My contact info: https://linktr.ee/ateves
