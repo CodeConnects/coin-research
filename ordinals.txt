@@ -6,3 +6,7 @@ A block explorer is available at https://ordinals.com.
 You can explore recent blocks, and look up ordinals by number, decimal, degree, or name.
 
 Arbitrary assets, such as NFTs, security tokens, accounts, or stablecoins can be attached to Ordinals.
+
+-------------------------------
+
+Discord open for Lone Aliens. They closed it before 100 people, and the Hewwo guy from OHM fork days appears to be the dev, but with a different handle.
