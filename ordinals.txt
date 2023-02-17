@@ -10,3 +10,5 @@ Arbitrary assets, such as NFTs, security tokens, accounts, or stablecoins can be
 -------------------------------
 
 Discord open for Lone Aliens. They closed it before 100 people, and the Hewwo guy from OHM fork days appears to be the dev, but with a different handle.
+
+Ordinals Wallet is deving quickly. No projects seem to have a transfer button yet, which seems quite important!
